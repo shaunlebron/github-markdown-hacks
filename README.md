@@ -77,3 +77,5 @@ These may break in the future since they are undocumented:
 ```
 
 <table><tr><td>Boxed text</td></tr></table>
+
+[You can search here for tags with other style implications](https://github.com/bryanbraun/poor-mans-styleguide)
