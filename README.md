@@ -12,7 +12,7 @@ For us to work on the design of a github readme, it would help to know what it's
 
 ## Official
 
-- [Github Flavoered Markdown](https://help.github.com/articles/github-flavored-markdown/)
+- [Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
 - [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) :grin:
 - [More details from the official markdown renderer repo](https://github.com/github/markup)
 
