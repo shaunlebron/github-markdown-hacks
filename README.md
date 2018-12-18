@@ -32,30 +32,6 @@ For us to work on the design of a github readme, it would help to know what it's
   
   <img valign="middle" src="https://img.shields.io/badge/for-example-brightgreen.svg">
 
-### Not so common
-
-- space before first html tag to allow inner markdown parsing
-
-```
-<pre>
-Monospace block *without* markdown parsing.
-</pre>
-```
-
-<pre>
-Monospace block *without* markdown parsing.
-</pre>
-
-```
- <pre>
-Monospace block *with* markdown parsing.
-</pre>
-```
-
- <pre>
-Monospace block *with* markdown parsing.
-</pre>
-
 ### Tags with style implications
 
 These may break in the future since they are undocumented:
